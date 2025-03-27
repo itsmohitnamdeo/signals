@@ -55,7 +55,7 @@ This project explores the behavior of Django signals with respect to synchroniza
 - Signal Threading Behavior Test
 - URL: http://127.0.0.1:8000/test-thread/
 
-![test-thread](https://github.com/user-attachments/assets/771bc473-5ebc-4dcb-b5c6-23e539a0db3e)
+![test-thread](https://github.com/user-attachments/assets/81d78694-bacc-424f-9347-2e48cc7fc599)
 
 
 - Rectangle Iterable Class Test
